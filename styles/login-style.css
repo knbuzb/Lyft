@@ -1,0 +1,6 @@
+.panel_in{   
+    padding: 2rem 2rem calc(16px + 2rem);
+    max-width: 500px;
+    min-height: 660px;
+    box-shadow: rgb(94, 105, 125) 0px 1px 5px 0px;
+  }
